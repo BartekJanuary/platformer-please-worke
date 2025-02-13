@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\rafav\source\repos\Project2\Project2\main.cpp(252,53): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\rafav\source\repos\Project2\Project2\main.cpp(252,36): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\rafav\source\repos\Project2\Project2\main.cpp(254,72): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\rafav\source\repos\Project2\Project2\main.cpp(254,50): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\rafav\source\repos\Project2\Project2\main.cpp(259,61): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\rafav\source\repos\Project2\Project2\main.cpp(259,42): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\rafav\source\repos\Project2\Project2\main.cpp(262,77): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\rafav\source\repos\Project2\Project2\main.cpp(262,53): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+  Project2.vcxproj -> C:\Users\rafav\source\repos\Project2\x64\Debug\Project2.exe
